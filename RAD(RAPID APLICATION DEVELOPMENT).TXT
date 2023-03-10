@@ -1,0 +1,64 @@
+RESUMO:
+Módulo 1: Descrever a contextualização, os conceitos, princípios, as ferramentas e técnicas da metodologia de desenvolvimento rápido de software(RAD)
+CONTEXTUALIZAÇÃO: 
+É a entrega de um protótipo de software (um concentração no desenvolvimento dos principais módulos funcionais do sistema).
+Vantagens de um protótipo:
+Compreender mais o sistema;
+Demanda a vontade do cliente;
+Flexível a mudanças;
+Pode ser integrado ao produto final.
+
+Os projetos RAD seguem o modelo iterativo(refinado por etapas) e incremental(é entregue em pedaços, TAMBÉM CONHECIDO COMO INCREMENTO).
+A equipe de desenvolvimento é pequena: desenvolvedores, analistas de negócio e representantes de clientes.
+
+James Martins, em 1991, consultor e autor de tecnologia.
+
+Vantagens do RAD:
+Práticos em ambientes modernos de desenvolvimento;
+Abordagem útil para criar aplicações;
+Desencadeia mecanismo ao status de um empresa no mercado competitivo.
+
+Como posso iniciar um projeto RAD?
+1.	Desenvolvimento de aplicações conjuntas;
+2.	Usuários  e analistas projetam juntos, sob uma liderança em oficinas de trabalho;
+3.	Dinâmicas de grupo;
+4.	Relatar procedimentos que serão feitos;
+5.	WYSIWIG
+Modelo CASCATA, ONDE O SEGUEM MODELOS RIGIDOS DE PROCESSO. MODELOS NAS QUAIS OS CLIENTES SÃO PRESSIONADOS A ESTABELECER OS REQUISITOS ANTES DO INICIO DO PROJETO, ou seja, pouco contato com o cliente e um desenvolvimento em fechado.
+
+CONCEITOS
+RAD é um software com menor custo, menos erros e menor tempo de desenvolvimento.
+4 elementos fundamentais da RAD:
+Ferramentas para dar suporte ao cliente: CASE(automação no desenvolvimento, desde análise de requisitos e modelagem e até programação e testes);
+Metodologia bem definida: atividades em etapas e entregas intermediarias;
+Pessoas: treinamento tanto na metodologia de trabalho como no uso de ferramentas.
+Gestão: oficinas de Planejamento de Requisitos e Design de Sistema para extrair rapidamente os requisitos dos usuários.
+Timebox: tempo máximo para atingir meta, tomar um decisão ou executar um conjunto de tarefas.
+
+Dois tipos de projetos RAD: 
+Intensivo e faseado.
+Intensivo -  desenvolvedores e usuários trabalham por um curto período, tipo umas semanas.
+Faseado – geralmente iniciado por um workshop JAD, o intuito é refinar continuamente o protótipo, até o timebox.
+
+Princípios 
+Equipe de desenvolvedores qualificada e motivada.
+Usuários comprometidos com a participação ativa ao longo do projeto.
+Comprometimento para atingir o resultado satisfatório.
+
+Desenvolvimento do protótipo buscar dar mais disponibilidade de o usuário dar suas opiniões:
+Tais como, 
+Funcionalidade,
+Recursos,
+Interatividade do sistema,
+Relatórios,
+Gráficos, entre outros.
+
+
+Princípios básicos do RAD:
+ENVOLVIMENTO ATIVO DOS USUARIOS;
+EQUIPES PEQEUNAS COM PODER DE DECISÃO;
+ENTREGA FREQUENTE DE PRODUTOS;
+DESENVOLVIMENTO INCREMENTAL E ITERATIVO(INCREMENTA É O AUMENTO DO DESENVOLVIMENTO DAS PARTES E ITERATIVO É O REFINAMENTO CONTINUO POR PARTES);
+ABORDAGEM TOP-DOWN(ELABORADOS ATRAVÉS DE PROTOTIPAGEM INCREMENTAL), AQUI OCORRE UMA ELABORAÇÃO MELHOR NO DECORRER QUE O CONHECIMENTO CRESCE;
+UTILIZAÇÃO DE FERRAMENTAS DE AUTOMAÇÃO.
+
