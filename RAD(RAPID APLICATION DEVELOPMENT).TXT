@@ -62,3 +62,71 @@ DESENVOLVIMENTO INCREMENTAL E ITERATIVO(INCREMENTA É O AUMENTO DO DESENVOLVIMEN
 ABORDAGEM TOP-DOWN(ELABORADOS ATRAVÉS DE PROTOTIPAGEM INCREMENTAL), AQUI OCORRE UMA ELABORAÇÃO MELHOR NO DECORRER QUE O CONHECIMENTO CRESCE;
 UTILIZAÇÃO DE FERRAMENTAS DE AUTOMAÇÃO.
 
+Ferramentas e técnicas:
+Integração de dados -  encadeamento dada pelas fases de iterativo e incremental.
+Ambientes de desenvolvimento;
+Ferramentas de coleta de requisitos;
+Ferramentas de modelagem de dados;
+Obs: a análise das 3 ultimas encadeiam na automação de desenvolvimento como o CASE.
+
+Módulo 2: identificar as fases da RAD
+CONCEITOS
+RAD é caracterizada pelo desenvolvimento do projeto através de etapas iterativas e incrementais, onde um protótipo é entregue ao final de cada ciclo.
+
+Na abordagem de James Martin, 1991, as metodologias RAD possui quatro fases distintas:
+Fase 1:planejamento de requisitos, escopo do projeto.
+Fase 2: design do usuário, técnicas de JAD e ferramentas CASE.
+Fase 3: construção, desenvolvimento do protótipo, como também a interação do usuários com os devs.
+Fase 4: transição, processamento de dados, testes, mudanças.
+
+Outras abordagens, como de James Kerr, 1994.
+1.	Modelagem de negócios-
+2.	2. Modelagem de dados-
+3.	Modelagem de processos-
+4.	Geração de aplicação-
+5.	Teste e modificação-
+
+Um outro ponto que fica mais evidente está nos componentes de UI/UIX do sistema.
+UI/UIX-UI SE REFERE A INTERFACE COM O USUARIO NO SENTIDO DE TELA E OUTAS INTERAÇÕES. UIX SE REFERE A EXPERIENCIA DO USUARIO, NO ASPECTO ERGONOMICO.
+
+CICLOS DE DESENVOLVIMENTO
+Usuarios e desenvolvedores:
+Metas, expectativas, cronogramas e orçamento.
+
+Especificidade das fases:
+Levantamento de requisitos-beneficios, custos e riscos.
+Oficinas JAD-revisão e detalhamento do escopo do sistema.
+Validações de protótipos-inicio de implementações no sistema.
+Banco de dados-testes.
+Transição -instalações e demais configurações.
+
+
+Modulo 3- distinguir quando aplicar e quando não aplicar RAD 
+
+CONCEITOS
+PESSOAS, GERENCIMENTO E USO DE FERRAMENTAS COMPUTACIONAIS.
+
+O RAD é mais adequado para softwares de baixa complexidade.
+
+Metodologia RAD-Vantagem e desvantagens
+Vantagens: integração antecipada do sistema e redução de riscos; adaptabilidade e compartimentação dos componentes do sistema; versões iterativas e menor tempo de colocação no mercado; feedback constante do usuário.
+Desvantagens: equipe tecnicamente qualifica; foco exigente na interface; alto nível de comprometimento; sistemas modulares(.
+
+Módulo 4- justificar o python e as ferramentas(framework) para o desenvolvimento RAD
+Contextualização
+Desenvolvimento de protótipos
+
+Python – muito usada para diversos fins.
+
+Ferramentas (framework) para o desenvolvimento:
+Framework GUI para python
+GUI-Interface Gráfica do Usuário, é um aspecto essencial para que possa haver interação com sistema.
+Exemplos de framework GUI:
+TKINTER, PYQT, PYSIDE, KIVY, WXPYTHON.
+O FRAMEWORK GUI MAIS USADO É O TKINTER.
+
+FRAMEWORKS WEB PARA PYTHON- É UM CONJUNTO DE PACOTE. MAIORIA DOS FRAMEWORKS PARA WEB FOCAM NO DESENVOLVIMENTO DE APLICAÇÕES DO LADO DO SERVIDOR.
+FRAMEWORKS PARA APLICAÇÕES WEB INCLUEM PADRÕES: ROTEAMENTO DE URL; OBJETOS DE SOLICITAÇÃO E RESPOSTA; TEMPLATE ENGINE; SERVIDOR WEB DE DESENVOLVIMENTO.
+PYTHON PARA PROJETOS RAD POSSUI UMA SINTAXE ENXUTA COM PACOTES E FRAMEWORKS QUE PADRONIZAM O DESENVOLVIMENTO.
+
+
